@@ -8,4 +8,4 @@ Opa, você chegou aqui. Bem, este é um exemplo de projeto para você dar seus p
 
 Conheça o tutorial no [studio urbanna][studio urbanna]
 
-[studio urbanna]: http://www.studiourbanna.com.br/categorias.html#git
+[studio urbanna]: https://www.studiourbanna.com.br/tags.html#git
