@@ -15,6 +15,6 @@ The project is supported through the following browsers:
 
 Use this section to tell people how to report a vulnerability.
 
-Report the [Issue Request](https://github.com/clcmo/web/issues/new?assignees=&labels=&template=bug_report.md&title=), with details on the vulnerabilities found on the page.
+Report the [Issue Request](https://github.com/clcmo/MeuPrimeiroProjeto/issues/new?assignees=&labels=&template=bug_report.md&title=), with details on the vulnerabilities found on the page.
 
 A screenshot and a code snippet with the reported message are also valid.
